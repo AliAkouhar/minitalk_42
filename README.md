@@ -5,7 +5,7 @@
 <h1>Run :</h1>
 <ul>
   <li><b>make</b></li>
-  <li>./server</li>
-  <li>./client <"PID that the server will display"> <"any message you want to write"></li>
-  <li> Ctrl-z on your keyboard to close the program.</li>
+  <li><b>./server</b></li>
+  <li><b>./client <"PID that the server will display"> <"any message you want to write"></b></li>
+  <li><b> Ctrl-z on your keyboard to close the program.</b></li>
 </ul>
