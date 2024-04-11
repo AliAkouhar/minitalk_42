@@ -4,7 +4,7 @@
 <img width="139" alt="Screenshot 2024-04-11 160600" src="https://github.com/AliAkouhar/minitalk_42/assets/133344572/d54164ef-dcdb-4f87-9ea4-9e472c8389c9">
 <h1>Run :</h1>
 <ul>
-  <li>make</li>
+  <li><b>make</b></li>
   <li>./server</li>
   <li>./client <"PID that the server will display"> <"any message you want to write"></li>
   <li> Ctrl-z on your keyboard to close the program.</li>
