@@ -6,6 +6,6 @@
 <ul>
   <li>make</li>
   <li>./server</li>
-  <li>./client <PID from the server> <"any message you want to write in strings"></li>
+  <li>./client <"PID that the server will display"> <"any message you want to write"></li>
   <li> Ctrl-z on your keyboard to close the program.</li>
 </ul>
